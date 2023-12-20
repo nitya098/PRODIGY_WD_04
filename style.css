@@ -1,0 +1,61 @@
+img{
+    padding: 60px;
+    padding-top: 20px;
+    border-radius: 30%;
+}
+div{
+    display: inline-block;
+}
+.main_img{
+    float: right;
+}
+h1{
+    /*font-family: 'Libre Baskerville', serif;*/
+    font-family: 'Kaushan Script', cursive;
+    font-size: 85px;
+    padding-top: 80px;
+    padding-left: 30px;
+    color: rgb(158, 208, 240);
+}
+h2{
+    font-family: 'Indie Flower', cursive;
+    padding-left: 30px;
+    font-size: 50px;
+    color: rgb(8, 102, 160);
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    color: #5ba1cf;
+    padding-left: 25px;
+}
+#name{
+    padding-top: 0px;
+}
+li{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    color: #C06C84;
+    padding-right: 500px;
+    padding-left: 30px;
+}
+h3{
+    color: #6C5B7B;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    padding-left: 20px;
+}
+.rating>img{
+    padding:15px;
+    padding-right: 300px;
+}
+.languages>li{
+    padding-bottom: 20px;
+}
+.rating{
+    float: right;
+    padding-top: 120px;
+}
+.education>li{
+    padding-right: 0px;
+}
